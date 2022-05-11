@@ -12,7 +12,7 @@ The main python files are listed below:
 - `local_VQE_fast.py`: implements VQE experiments that runs relatively fast even up to 25 qubits (assuming high memory GPU is available)
 - `adapt_VQE.py`: perform adaptive layer-wise optimization in a VQE setting
 
-Bash scripts are included to automate running the code. Please update these if you decide to use them to account for the proper number of GPUs that you have.
+Also included are files to create plots and bash scripts to automate running the code. First run scripts to output data as csv files into the `\.data\` folder before making plots. Please also update the bash scripts if you decide to use them to account for the proper number of GPUs that you have.
 
 ## Dependencies
 
