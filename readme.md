@@ -17,11 +17,11 @@ Bash scripts are included to automate running the code. Please update these if y
 ## Dependencies
 
 All code is written in Python. The following packages are needed to run the code (version we used in parentheses):
--*Pytorch* (1.11.0)
--*Numpy* (1.22.3)
--*Pandas* (1.1.3)- for loading and saving data
--*Matplotlib* (3.5.1) - for making plots
--*Seaborn* (0.11.2) - for making plots
+- *Pytorch* (1.11.0)
+- *Numpy* (1.22.3)
+- *Pandas* (1.1.3)- for loading and saving data
+- *Matplotlib* (3.5.1) - for making plots
+- *Seaborn* (0.11.2) - for making plots
 
 We ran all simulations on an NVIDIA RTX A6000 GPU which has 48 GB of memory. For GPUs with less memory, consider reducing the number of qubits when out of memory errors arise.
 
