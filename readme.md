@@ -28,4 +28,4 @@ We ran all simulations on an NVIDIA RTX A6000 GPU which has 48 GB of memory. For
 ## Authors
 
 * [Bobak Kiani](https://github.com/bkiani) (MIT) 
-* Eric Anschuetz (MIT)
+* [Eric Anschuetz](https://github.com/eanschuetz) (MIT)
