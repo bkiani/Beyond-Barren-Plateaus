@@ -1,6 +1,6 @@
 # Beyond Barren Plateaus
 
-In this repo, we are sharing code for replicating experiments in our paper **Beyond Barren Plateaus: Quantum Variational Algorithms are Swamped with Traps** (arXiv link to be added soon).
+In this repo, we are sharing code for replicating experiments in our paper **Beyond Barren Plateaus: Quantum Variational Algorithms are Swamped with Traps** ([published version](https://www.nature.com/articles/s41467-022-35364-5) or [arXiv link](https://arxiv.org/abs/2205.05786)).
 
 
 # Files
